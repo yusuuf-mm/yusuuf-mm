@@ -1,5 +1,4 @@
-![logo](Hey! I am YUSUF MM Fullstack_20240805_031544_0002.gif
-)
+![logo](Hey! I am YUSUF MM Fullstack_20240805_031544_0002.gif)
 <h1 align="center">Hi 👋, I'm YUSUF MM</h1>
 <h3 align="center">Relentlessly curious, shaping ideas and exploring new technologies. 💡</h3>
 
