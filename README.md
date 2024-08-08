@@ -1,4 +1,4 @@
-![logo](https://github.com/yusuufmm/yusuufmm/blob/main/Hey!%20I%20am%20YUSUF%20MM%20Fullstack_20240805_031544_0002.gif)
+![logo](https://github.com/yusuufmm/yusuufmm/blob/main/codegif.gif)
 <h1 align="center">Hi 👋, I'm YUSUF MM</h1>
 <h3 align="center">Relentlessly curious, shaping ideas and exploring new technologies. 💡</h3>
 
