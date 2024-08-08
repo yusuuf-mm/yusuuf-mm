@@ -36,6 +36,8 @@
   </a>
 </p>
 
+---
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 0;">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" title="Azure">
