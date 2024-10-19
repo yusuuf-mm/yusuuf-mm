@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm YUSUF MM</h1>
 
-![logo](https://github.com/yusuufmm/yusuufmm/blob/main/codegif.gif)
+![logo](https://github.com/yusuufmm/yusuufmm/blob/main/insight.jpg)
 
 <h3 align="center">Relentlessly curious, shaping ideas and exploring new technologies. 💡</h3>
 
