@@ -86,14 +86,21 @@ class YusufMM:
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
 </a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+</a>
 
 </div>
 
 ---
 
-## 💼 Featured Project
+## 💼 Featured Projects
 
 <div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
 
 ### 🔧 [GitOptima](https://github.com/yusuuf-mm/GitOptima)
 
@@ -102,6 +109,31 @@ class YusufMM:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Key Features:**
+- 📊 Repository analytics & insights
+- 📈 Performance visualization
+- 🔍 Code optimization suggestions
+
+</td>
+<td width="50%" align="center">
+
+### 💰 [ExpenseWise](https://github.com/yusuuf-mm/ExpenseWise)
+
+*AI-powered personal finance management with smart budgeting & expense tracking*
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**Key Features:**
+- 🤖 AI expense recommendations
+- 📊 ML-based forecasting
+- 🔐 Bank account integration
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -139,13 +171,16 @@ class YusufMM:
 
 *Open to interesting projects and tech discussions*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/yusuuf-mm)
+[![Current Profile](https://img.shields.io/badge/Current_Profile-255E63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yusuuf-mm)
+[![Previous Profile](https://img.shields.io/badge/Legacy_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yusuufmm)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusuf2000mm@gmail.com)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yusuuf-mm&color=blueviolet&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=yusuuf-mm&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
-*"When not coding, you'll find me exploring anime worlds or conquering virtual realms"* 🎮✨
+⭐ *"When not coding, you'll find me exploring anime worlds or conquering virtual realms"* 🎮✨
+
+**Fun Fact:** Built production-ready fintech solutions with AI/ML integration 🚀
 
 </div>
