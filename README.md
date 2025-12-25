@@ -4,7 +4,7 @@
 
 ### Software & Data Engineer | Backend · AI/ML · Cloud
 
-*Building intelligent systems and scalable solutions *
+*Building intelligent systems and scalable solutions*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-mm)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yusuufmm)
