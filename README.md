@@ -220,7 +220,7 @@ IoT simulator streams sensor data through Kafka into PostgreSQL and S3, transfor
 
 - **Project Endgame** — RAG knowledge system using NVIDIA NIM, Qdrant, LangGraph, and Supabase
 - **LLM Zoomcamp** — RAG pipelines, agentic retrieval, hybrid search, evaluation
-- **Open to** Senior AI Systems Engineer, Data Engineer, and ML Engineer roles — remote or relocation
+- **Open to** AI Systems Engineer, Data Engineer, and ML Engineer roles — remote or relocation
 
 ---
 
