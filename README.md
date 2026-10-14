@@ -231,7 +231,7 @@ IoT simulator streams sensor data through Kafka into PostgreSQL and S3, transfor
 | Data Engineering Zoomcamp | DataTalks.Club | ✅ |
 | ML Engineering Zoomcamp | DataTalks.Club | ✅ |
 | AI Dev Tools Zoomcamp | DataTalks.Club | ✅ |
-| LLM Zoomcamp | DataTalks.Club | 🔄 In progress |
+| LLM Zoomcamp | DataTalks.Club | ✅ |
 | ALX Software Engineering | ALX Africa | ✅ |
 | HNG Backend & DevOps | HNG | ✅ |
 | Data Engineering (DeepTech) | DSN / 3MTT | ✅ |
